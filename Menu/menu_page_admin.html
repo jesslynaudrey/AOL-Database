@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html" charset="utf-8" />
+    <title>menu_page_admin</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="" />
+    <link rel="StyleSheet" href="menu_page_admin.css" />
+    <script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
+    <!-- Add your custom HEAD content here -->
+  </head>
+  <body>
+    <div id="content-container">
+      <div id="page_menu_page_admin_ek1">
+        <div id="_bg__menu_page_admin_ek2"></div>
+        <img src="skins/coffee_beans_with_props_making_coffee_1220_4536_3.png" id="coffee_beans_with_props_making_coffee_1220_4536_3" />
+        <div id="rectangle_8"></div>
+
+        <div id="group_2">
+          <a href="../Input/inputproduk.php">
+            <button type="button" style="width: 1000px; height: 130px; font-size: 50px; border-radius: 30px; border: 5px solid; font-weight: bold">
+              Input Produk
+            </button>
+          </a>
+        </div>
+
+        <div id="group_6">
+			<a href="../Input/update.php">
+				<button type="button" style="width: 1000px; height: 130px; font-size: 50px; border-radius: 30px; border: 5px solid; font-weight: bold">
+				  Stok Produk
+				</button>
+        </div>
+
+        <div id="mixu_cafe">MIXU<span class="char">%E2%80%A2C</span>CAFE</div>
+
+        <!-- <div id="group_3">
+          <div id="rectangle_13"></div>
+          <div id="marcelius_surya">Marcelius Surya</div>
+          <div id="_12_01_2023">12<span class="char">%E2%80%A20</span>01<span class="char">%E2%80%A22</span>2023</div>
+          <img src="skins/vector_ek1.png" id="vector_ek1" />
+        </div> -->
+      </div>
+    </div>
+    <script>
+      var specialChars = document.querySelectorAll("span.char");
+      for (var c = 0; c < specialChars.length; c++) {
+        specialChars[c].innerHTML = decodeURIComponent(specialChars[c].innerHTML);
+      }
+    </script>
+  </body>
+</html>

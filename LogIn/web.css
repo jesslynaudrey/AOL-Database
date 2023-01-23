@@ -1,0 +1,198 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 2456px;
+  width: 2456px;
+  height: 1170px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page_login_page_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+}
+
+#_bg__login_page_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#coffee_beans_with_props_making_coffee_1220_4536_1 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+}
+
+#rectangle_3 {
+  top: 0px;
+  left: 169px;
+  width: 1650px;
+  height: 1170px;
+}
+
+#rectangle_3_ek1 {
+  top: 763px;
+  left: 222px;
+  width: 686px;
+  height: 86px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#rectangle_4 {
+  top: 915px;
+  left: 434px;
+  width: 261px;
+  height: 85px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#id_staff {
+  top: 482px;
+  left: 463px;
+  width: 242px;
+  height: 75px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+}
+
+#id_staff2 {
+  top: 553px;
+  left: 270px;
+  width: 600px;
+  height: 75px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+}
+
+#mixu_cafe {
+  top: 190px;
+  left: 214px;
+  width: 928px;
+  height: 218px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 120px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+}
+
+#rectangle_2 {
+  top: 547px;
+  left: 222px;
+  width: 686px;
+  height: 86px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#password {
+  top: 698px;
+  left: 431px;
+  width: 315px;
+  height: 75px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#password2 {
+  top: 767px;
+  left: 270px;
+  width: 600px;
+  height: 75px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: left;
+}
+
+#login {
+  top: 934px;
+  left: 493px;
+  width: 191px;
+  height: 75px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  color: #eaeaea;
+}
+
+#_12_january_2023 {
+  top: 1139px;
+  left: 0px;
+  width: 314px;
+  height: 52px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+}

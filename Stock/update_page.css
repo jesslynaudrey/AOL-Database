@@ -1,0 +1,335 @@
+/*
+	@name input_page
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 2456px;
+  width: 2456px;
+  height: 1170px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page_input_page_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+}
+
+#_bg__input_page_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#coffee_beans_with_props_making_coffee_1220_4536_3 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+}
+
+#rectangle_38 {
+  top: 65px;
+  left: 83px;
+  width: 2313px;
+  height: 1063px;
+}
+
+#rectangle_10 {
+  top: 230px;
+  left: 126px;
+  width: 2203px;
+  height: 697px;
+}
+
+#rectangle_37 {
+  top: 625px;
+  left: 317px;
+  width: 1782px;
+  height: 292px;
+  -ms-border-radius: 24px;
+  -o-border-radius: 24px;
+  -moz-border-radius: 24px;
+  -webkit-border-radius: 24px;
+  border-radius: 24px;
+  background: rgba(217, 217, 217, 1);
+}
+
+#input_produk {
+  top: 65px;
+  left: 368px;
+  width: 437px;
+  height: 73px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 30px;
+  text-align: left;
+  color: #000000;
+}
+
+#rectangle_38_ek1 {
+  top: 91px;
+  left: 162px;
+  width: 815px;
+  height: 84px;
+}
+
+#input_produk_ek1 {
+  top: 107px;
+  left: 441px;
+  width: 302px;
+  height: 79px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#group_15 {
+  top: 981px;
+  left: 1900px;
+  width: 382.19px;
+  height: 81.74px;
+}
+
+/* #rectangle_12 {
+	top: 0px;
+	left: 0px;
+	width: 382.19px;
+	height: 81.74px;
+} */
+
+#input_produk_ek2 {
+  top: 25px;
+  left: 97px;
+  width: 222.98px;
+  height: 72.63px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 30px;
+  text-align: left;
+  color: #000000;
+}
+
+#vector {
+  top: 985px;
+  left: 162px;
+  width: 76px;
+  height: 73px;
+}
+
+#image_2 {
+  top: 250px;
+  left: 930px;
+  width: 595px;
+  height: 375px;
+}
+
+#group_11 {
+  top: 637px;
+  left: 387px;
+  width: 977px;
+  height: 201px;
+}
+
+#id_produk_nama_produk_jenis_produk_stok_produk_harga {
+  top: 0px;
+  left: 0px;
+  width: 465px;
+  height: 250px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  text-align: left;
+  color: #000000;
+}
+
+#___p021________ {
+  top: 0px;
+  left: 509px;
+  width: 513px;
+  height: 250px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 40px;
+  text-align: left;
+  color: #000000;
+}
+
+#rectangle_41 {
+  top: 790px;
+  left: 914px;
+  width: 355px;
+  height: 45px;
+}
+
+#rectangle_43 {
+  top: 790px;
+  left: 914px;
+  width: 355px;
+  height: 45px;
+}
+
+#rectangle_44 {
+  top: 737px;
+  left: 914px;
+  width: 355px;
+  height: 45px;
+}
+
+#rectangle_45 {
+  top: 684px;
+  left: 914px;
+  width: 355px;
+  height: 45px;
+}
+
+#rectangle_42 {
+  top: 845px;
+  left: 914px;
+  width: 355px;
+  height: 45px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#group_3 {
+  top: 81px;
+  left: 1957px;
+  width: 423.36px;
+  height: 134px;
+}
+
+#rectangle_13 {
+  top: 0px;
+  left: 0px;
+  width: 423.36px;
+  height: 134px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#marcelius_surya {
+  top: 25px;
+  left: 19px;
+  width: 306.27px;
+  height: 60.22px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#_12_01_2023 {
+  top: 68px;
+  left: 91px;
+  width: 234.41px;
+  height: 60.22px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#vector_ek1 {
+  top: 29px;
+  left: 315px;
+  width: 77.68px;
+  height: 77.68px;
+}
+
+#nama_produk {
+  margin-top: 690px;
+  margin-left: 914px;
+  width: 200px;
+  height: 18px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+  padding: 10px 10px 10px 110px;
+  border: 1px solid;
+  outline: none;
+}
+
+#jenis_produk {
+  margin-top: 740px;
+  margin-left: 914px;
+  width: 200px;
+  height: 18px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+  padding: 10px 10px 10px 110px;
+  border: 1px solid;
+  outline: none;
+}
+
+#stok_produk {
+  margin-top: 790px;
+  margin-left: 914px;
+  width: 200px;
+  height: 18px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+  padding: 10px 10px 10px 110px;
+  border: 1px solid;
+  outline: none;
+}
+
+#harga_produk {
+  margin-top: 840px;
+  margin-left: 914px;
+  width: 200px;
+  height: 18px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+  padding: 10px 10px 10px 110px;
+  border: 1px solid;
+  outline: none;
+}
+
+/* #nama {
+	margin-top: 840px;
+	margin-left: 900px;
+} */

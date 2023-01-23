@@ -1,0 +1,255 @@
+/*
+	@name menu_page_admin
+*/
+/* Only edit this if you know what you are doing! */
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+/* Only edit this if you know what you are doing! */
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+/* Only edit this if you know what you are doing! */
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 2456px;
+  width: 2456px;
+  height: 1170px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page_menu_page_admin_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+}
+
+#_bg__menu_page_admin_ek2 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#coffee_beans_with_props_making_coffee_1220_4536_3 {
+  top: 0px;
+  left: 0px;
+  width: 2456px;
+  height: 1170px;
+}
+
+#rectangle_8 {
+  opacity: 0.60000002384186;
+  top: 68px;
+  left: 67px;
+  width: 2313px;
+  height: 1063px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+#group_5 {
+  top: 372px;
+  left: 715.01px;
+  width: 1017.99px;
+  height: 118.57px;
+}
+
+#rectangle_14 {
+  top: 0px;
+  left: 0px;
+  width: 1017.99px;
+  height: 118.57px;
+}
+
+#staff {
+  top: 25px;
+  left: 439px;
+  width: 203.67px;
+  height: 103.85px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#group_7 {
+  top: 917.04px;
+  left: 715.01px;
+  width: 1017.99px;
+  height: 118.57px;
+}
+
+#rectangle_14_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1017.99px;
+  height: 118.57px;
+}
+
+#list_transaksi {
+  top: 24px;
+  left: 338px;
+  width: 397px;
+  height: 104px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#group_2 {
+  top: 475.61px;
+  left: 715px;
+  width: 1018px;
+  height: 119px;
+}
+
+#rectangle_9 {
+  top: 0px;
+  left: 0px;
+  width: 1018px;
+  height: 119px;
+}
+
+#input_produk {
+  top: 19px;
+  left: 346px;
+  width: 389px;
+  height: 89px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#group_6 {
+  top: 620.61px;
+  left: 715.01px;
+  width: 1017.99px;
+  height: 118.57px;
+}
+
+#rectangle_9_ek1 {
+  top: 0px;
+  left: 0px;
+  width: 1017.99px;
+  height: 118.57px;
+}
+
+#stok_produk {
+  top: 25px;
+  left: 356px;
+  width: 361px;
+  height: 104px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#mixu_cafe {
+  top: 163px;
+  left: 967px;
+  width: 599px;
+  height: 159px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: left;
+  color: #ffffff;
+}
+
+#vector {
+  top: 1035px;
+  left: 101px;
+  width: 76px;
+  height: 73px;
+}
+
+#group_3 {
+  top: 50px;
+  left: 1957px;
+  width: 423.36px;
+  height: 134px;
+}
+
+#rectangle_13 {
+  top: 0px;
+  left: 0px;
+  width: 423.36px;
+  height: 134px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 1);
+}
+
+#marcelius_surya {
+  top: 25px;
+  left: 19px;
+  width: 306.27px;
+  height: 60.22px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#_12_01_2023 {
+  top: 68px;
+  left: 91px;
+  width: 234.41px;
+  height: 60.22px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+  color: #000000;
+}
+
+#vector_ek1 {
+  top: 29px;
+  left: 315px;
+  width: 77.68px;
+  height: 77.68px;
+}
+
+/* Add your custom CSS here */
