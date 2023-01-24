@@ -13,7 +13,7 @@
         <div id="_bg__login_page_ek2"></div>
         <img src="skins/coffee_beans_with_props_making_coffee_1220_4536_3.png" id="coffee_beans_with_props_making_coffee_1220_4536_1" />
         <div id="rectangle_3_ek1"></div>
-        <div id="rectangle_4"></div>
+        <div id="rectangle_4" style="left: 410px"></div>
 
         <div id="mixu_cafe">MIXU<span class="char">%E2%80%A2C</span>CAFE</div>
         <div id="rectangle_2"></div>
@@ -26,12 +26,11 @@
             <div id="password2">
             <input type="text" name="password" id="pass" style="border: 0ch; outline: 0ch; font-size: 30px" required/>
             </div>
-            <div id="login">
+            <div id="login" style="left: 465px">
             <input type="submit" name="submit" style="border: 0ch; outline: 0ch; font-size: 45px; font-family: sans-serif; background-color: white">
-                LOGIN
+                
             </div>
         </form>
-        <div id="_12_january_2023">12<span class="char">%E2%80%A2J</span>January<span class="char">%E2%80%A22</span>2023</div>
       </div>
     </div>
     <script>
